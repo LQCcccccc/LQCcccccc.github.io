@@ -53,7 +53,7 @@ hasCJKLanguage = false
         homeTopImg = "/images/home.jpg"
         # title in home top image, support Markdown
         # 主页标题，支持Markdown语法
-        homeTitle = "XIOYITO"
+        homeTitle = "LQC"
         # font size(px)
         # 主页标题字号（单位：px）
         homeTitleFontSize = 40
@@ -174,7 +174,7 @@ hasCJKLanguage = false
     # 作者卡片社交链接，最多6个
     [[menus.social]]
         name = "GitHub"
-        url = "https://github.com/xioyito"
+        url = "https://github.com/LQCcccccc"
         pre = "<i class='fa fa-github'></i>"
         weight = 1
     [[menus.social]]
