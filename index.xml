@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LQC NewBee</title><link>https://lqccccccc.github.io/</link><description>Recent content on LQC NewBee</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate/><atom:link href="https://lqccccccc.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LQC NewBee</title>
+    <link>https://lqccccccc.github.io/</link>
+    <description>Recent content on LQC NewBee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 18:01:14 +0800</lastBuildDate>
+    <atom:link href="https://lqccccccc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://lqccccccc.github.io/posts/second-post/</link>
+      <pubDate>Wed, 10 Apr 2024 18:01:14 +0800</pubDate>
+      <guid>https://lqccccccc.github.io/posts/second-post/</guid>
+      <description>第二篇啦</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://lqccccccc.github.io/posts/first-post/</link>
+      <pubDate>Wed, 10 Apr 2024 17:49:17 +0800</pubDate>
+      <guid>https://lqccccccc.github.io/posts/first-post/</guid>
+      <description>第一篇啊</description>
+    </item>
+  </channel>
+</rss>
