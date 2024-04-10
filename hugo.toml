@@ -23,14 +23,14 @@ summaryLength = 50
 hasCJKLanguage = false
 
 [author]
-    name = "xioyito"
-    description = "Be Water, My Friend."
+    name = "LQC"
+    description = "day day up ~"
     # profile photo of author in author card
     # 作者头像
     image = "/images/author.jpeg"
     # link of followme in author card and footer
     # 作者卡片里 followme 和页脚作者的链接
-    link = "https://github.com/xioyito"
+    link = "https://github.com/LQCcccccc"
 
 # Taxonomies, Currently, only the following 3 taxonomies are supported
 # If you don't want one of them，delete it in [menus] instead here
@@ -59,7 +59,7 @@ hasCJKLanguage = false
         homeTitleFontSize = 40
         # content in home top image, support Markdown
         # 主页内容，支持Markdown语法
-        homeContent = "Be Water, My Friend"
+        homeContent = "day day up ~"
         # font size(px)
         # 主页内容字号（单位：px）
         homeContentFontSize = 20
